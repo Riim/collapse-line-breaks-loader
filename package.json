@@ -1,0 +1,19 @@
+{
+  "name": "collapse-line-breaks-loader",
+  "version": "0.2.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riim/collapse-line-breaks-loader.git"
+  },
+  "author": "Dmitry Vibe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riim/collapse-line-breaks-loader/issues"
+  },
+  "homepage": "https://github.com/Riim/collapse-line-breaks-loader#readme"
+}
